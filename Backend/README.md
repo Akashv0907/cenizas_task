@@ -1,4 +1,4 @@
-# Ashes Docs Backend
+# Backend
 
 This is the FastAPI backend for the AI-powered document Q&A app.
 
